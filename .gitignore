@@ -27,6 +27,7 @@ protein_wf_haddock/notebooks/*.web*.ipynb
 protein_wf_haddock/notebooks/*.docs.ipynb
 protein_wf_haddock/docs/notebooks
 protein_wf_haddock/html/protein_wf_haddock.web.ipynb
+data/
 
 *.old.ipynb
 *.bk.ipynb
