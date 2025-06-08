@@ -32,7 +32,7 @@ git clone https://github.com/bioexcel/biobb_wf_haddock.git
 cd biobb_wf_haddock
 conda env create -f conda_env/environment.yml
 conda activate biobb_wf_haddock
-jupyter-notebook biobb_wf_haddock/notebooks/biobb_wf_haddock.ipynb
+jupyter-notebook biobb_wf_haddock/notebooks/biobb_wf_haddock_aa.ipynb
 ```
 
 ***
