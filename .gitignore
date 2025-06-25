@@ -19,6 +19,7 @@ guidelines.md
 *.mol2
 *.stdin
 log.*
+__pycache__/
 .ipynb_checkpoints/
 protein_wf_haddock/notebooks/*/
 protein_wf_haddock/notebooks/*.png
