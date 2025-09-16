@@ -3,8 +3,8 @@ channels:
   - conda-forge
   - bioconda
 dependencies:
-  - biobb_haddock==5.0.1
-  - biobb_pdb_tools==5.0.1
+  - biobb_haddock==5.1.1
+  - biobb_pdb_tools==5.1.1
   - biobb_io
   - nglview==3.1.4
   - ipywidgets
