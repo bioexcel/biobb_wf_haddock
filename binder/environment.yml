@@ -7,7 +7,7 @@ dependencies:
   - biobb_pdb_tools==5.2.0
   - biobb_io==5.2.0
   - nglview==3.1.4
-  - jupyterlab=3.6
-  - nodejs=16
-  - ipywidgets=7
+  - jupyterlab
+  - nodejs
+  - ipywidgets
   - ambertools # For pytraj
