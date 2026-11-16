@@ -17,6 +17,7 @@ This tutorial aims to illustrate the process of **protein-protein docking**, ste
 
 * [biobb_io](https://github.com/bioexcel/biobb_io): Tools to fetch biomolecular data from public databases.
 * [biobb_pdb_tools](https://github.com/bioexcel/biobb_pdb_tools): Swiss army knife for manipulating and editing PDB files. 
+* [biobb_structure_utils](https://github.com/bioexcel/biobb_structure_utils): Tools to modify or extract information from a PDB structure.
 * [biobb_haddock](https://github.com/bioexcel/biobb_haddock): Module collection to compute information-driven flexible protein-protein docking.
 
 ### Auxiliary libraries used
