@@ -35,6 +35,8 @@ conda activate biobb_wf_haddock
 jupyter-notebook biobb_wf_haddock/notebooks/biobb_wf_haddock.ipynb
 ```
 
+**Note:** this tutorial runs on Linux only (on Windows, through WSL). It does not work on macOS: the CNS program bundled with HADDOCK3 (conda package `haddock_biobb`) needs Homebrew libraries and cannot run in a conda environment on a Mac. Mac users can run it in Binder (link below).
+
 ***
 
 ## Tutorial
