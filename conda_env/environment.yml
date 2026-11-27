@@ -8,7 +8,7 @@ dependencies:
   - biobb_pdb_tools==5.3.2
   - biobb_structure_utils==5.3.0
   - biobb_io==5.3.1
-  - nglview<=4.0
+  - molviewspec>=1.8
   - ipywidgets
   - jupyter
   - ambertools # For pytraj
