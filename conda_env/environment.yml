@@ -12,4 +12,3 @@ dependencies:
   - molviewspec>=1.8
   - ipywidgets
   - jupyter
-  - ambertools # For pytraj

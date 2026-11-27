@@ -10,4 +10,3 @@ dependencies:
   - biobb_io==5.3.1
   - molviewspec>=1.8
   - ipywidgets
-  - ambertools<26 # For pytraj; <26: AmberTools 26 breaks mamba clean on Binder (conda-forge/ambertools-feedstock#193)
